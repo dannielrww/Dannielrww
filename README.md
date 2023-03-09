@@ -4,8 +4,9 @@
 #
 #
 #
-<b>About Me:</b>
--🔭 I’m currently working on **BCA(Bank Central Asia)**
+<p><b>About Me:</b></p>
+
+ -🔭 I’m currently working on **BCA(Bank Central Asia)**
 
 - 💬 Ask me about something [**Message here**](https://www.instagram.com/danniel_rww/?hl=id)
 
