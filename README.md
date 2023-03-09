@@ -1,6 +1,6 @@
 # <h3 align="center">![](https://media.tenor.com/NUKXKQixpuwAAAAC/welcome.gif)</h3>
 #
-# Hello My Name Is Danniel Riyantus WillaWiranata Wellcome!!! 
+# Hello My Name Is Danniel Riyantus WillaWiranata  
 #
 #
 #
